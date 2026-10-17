@@ -1,0 +1,10 @@
+import numpy as np
+
+mat = np.array([[1, 2, 3],
+                 [4, 5, 6],
+                 [7, 8, 9]])
+
+
+row_mask=mat.sum(axis=1)>10
+
+print(mat[row_mask])
