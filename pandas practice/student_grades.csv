@@ -1,0 +1,11 @@
+Student_ID,Name,Department,Math_Score,Python_Score,Attendance_Pct,Passed
+101,Farhan,Computer Science,88.0,95.0,92.5,Yes
+102,Jasna,Data Science,92.0,88.0,96.0,Yes
+103,Eshan,Computer Science,79.0,,84.5,No
+104,Anjali,Electronics,85.0,82.0,91.0,Yes
+105,Rohit,Data Science,,78.0,88.5,No
+106,Meera,Electronics,90.0,91.0,95.0,Yes
+107,Aditya,Computer Science,95.0,99.0,98.5,Yes
+108,Zara,Data Science,68.0,72.0,80.0,No
+109,Kiran,Electronics,74.0,85.0,87.0,Yes
+110,Siddharth,Computer Science,89.0,90.0,93.5,Yes
